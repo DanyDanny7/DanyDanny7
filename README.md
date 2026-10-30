@@ -39,7 +39,7 @@
 - **El Faro** — Frontend Developer · Jun 2020 – Jun 2025
 - **I-Strategies** — Frontend & Mobile Developer · Sep 2019 – May 2020
 - **Korinver** — Full Stack JavaScript Developer · Oct 2018 – Apr 2019
-- **Independent** — business systems for Lebbel (payroll, tax, time tracking, geolocation) · 2024 – present
+- **Independent** — business systems for Lebbel (payroll, tax, time tracking, geolocation) · 2021 – present
 
 ## 💻 Tech Stack
 
